@@ -42,7 +42,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=royespalash&show_icons=true&locale=en&theme=dracula&hide=stars,issues" alt="royespalash" height="200" /></p>
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=royespalash&show_icons=true&locale=en&theme=dracula&hide=stars,issues" alt="royespalash" height="150" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royespalash&show_icons=true&theme=dracula&hide=stars,issues" alt="royespalash" height="200" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royespalash&show_icons=true&theme=dracula&hide=stars,issues" alt="royespalash" width="500" height="200" /></p>
 
