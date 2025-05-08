@@ -44,5 +44,6 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royespalash&show_icons=true&theme=dracula&hide=stars,issues" alt="royespalash" height="200" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royespalash&show_icons=true&theme=dracula&hide=stars,issues" alt="royespalash" width="500" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royespalash&show_icons=true&locale=en&theme=dracula&hide=stars,issues" alt="royespalash" height="200" /></p>
+<p align="center" <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=royespalash&theme=dracula&hide=stars,issues" alt="GitHub Streak" width="500"/></a> </p>
