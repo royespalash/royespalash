@@ -44,5 +44,5 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royespalash&show_icons=true&theme=dracula&hide=stars,issues" alt="royespalash" width="500" height="200" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royespalash&show_icons=true&locale=en&theme=dracula&hide=stars,issues" alt="royespalash" height="150" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royespalash&show_icons=true&theme=dracula&hide=stars,issues" alt="royespalash" height="200" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royespalash&show_icons=true&locale=en&theme=dracula&hide=stars,issues" alt="royespalash" height="200" /></p>
